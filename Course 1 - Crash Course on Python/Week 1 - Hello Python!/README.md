@@ -1,7 +1,5 @@
 # First Programming Concepts Cheat Sheet
 
-## First Programming Concepts Cheat Sheet
-
 __Functions and Keywords__
 
 Functions and keywords are the building blocks of a language’s syntax.
