@@ -3,6 +3,7 @@
 Check out below for a run down of the syntax for while loops and for loops.
 
 __While Loops__
+
 A while loop executes the body of the loop while the condition remains True.
 
 Syntax:
@@ -47,6 +48,7 @@ Typical use:
 For loops are mostly used when there's a pre-defined sequence or range of numbers to iterate.
 
 __Break & Continue__
+
 You can interrupt both while and for loops using the break keyword. We normally do this to interrupt a cycle due to a separate condition.
 
 You can use the continue keyword to skip the current iteration and continue with the next one. This is typically used to jump ahead when some of the elements of the sequence aren’t relevant.

@@ -21,6 +21,7 @@ Keywords are reserved words that are used to construct instructions. We briefly 
 You don't need to learn this list; we'll dive into each keyword as we encounter them. In the meantime, you can see examples of keyword usage [here](https://www.programiz.com/python-programming/keyword-list).
 
 __Arithmetic operators__
+
 Python can operate with numbers using the usual mathematical operators, and some special operators, too. These are all of them.
 
 - __a + b__ = Adds a and b
