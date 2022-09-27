@@ -157,7 +157,6 @@ Item: Purple Cup - Amount: 5 - Price: 16.25
 
 Check out the official documentation for [f-strings](https://docs.python.org/3/reference/lexical_analysis.html#f-strings).
 
-
 # Lists and Tuples Operations Cheat Sheet
 
 Lists and tuples are both sequences, so they share a number of sequence operations. But, because lists are mutable, there are also a number of methods specific just to lists. This cheat sheet gives you a run down of the common operations first, and the list-specific operations second.
@@ -204,6 +203,42 @@ __List comprehension__
 - __[expression for variable in sequence]__ Creates a new list based on the given sequence. Each element is the result of the given expression.
 
 - __[expression for variable in sequence if condition]__ Creates a new list based on the given sequence. Each element is the result of the given expression; elements only get added if the condition is true.
+
+# Dictionary Methods Cheat Sheet
+
+__Definition__
+
+x = {key1:value1, key2:value2} 
+
+__Operations__
+
+- __len(dictionary)__ - Returns the number of items in the dictionary
+
+- __for key in dictionary__ - Iterates over each key in the dictionary
+
+- __for key, value in dictionary.items()__ - Iterates over each key,value pair in the dictionary
+
+- __if key in dictionary__ - Checks whether the key is in the dictionary
+
+- __dictionary[key]__ - Accesses the item with key key of the dictionary
+
+- __dictionary[key] = value__ - Sets the value associated with key
+
+- __del dictionary[key]__ - Removes the item with key key from the dictionary
+
+__Methods__
+
+- __dict.get(key, default)__ - Returns the element corresponding to key, or default if it's not present
+
+- __dict.keys()__ - Returns a sequence containing the keys in the dictionary
+
+- __dict.values()__ - Returns a sequence containing the values in the dictionary
+
+- __dict.update(other_dictionary)__ - Updates the dictionary with the items coming from the other dictionary. Existing entries will be replaced; new entries will be added.
+
+- __dict.clear()__ - Removes all the items of the dictionary
+
+Check out the [official documentation for dictionary operations and methods](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict).
 
 # Dictionary Methods Cheat Sheet
 
