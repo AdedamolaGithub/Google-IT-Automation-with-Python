@@ -11,10 +11,10 @@
     - Week 2: [Basic Python Syntax](https://github.com/ginny100/Google-IT-Automation-with-Python/tree/master/Course%201%20-%20Crash%20Course%20on%20Python/Week%202%20-%20Basic%20Python%20Syntax)
     - Week 3: [Loops](https://github.com/ginny100/Google-IT-Automation-with-Python/tree/master/Course%201%20-%20Crash%20Course%20on%20Python/Week%203%20-%20Loops)
     - Week 4: [Strings, Lists and Dictionaries](https://github.com/ginny100/Google-IT-Automation-with-Python/tree/master/Course%201%20-%20Crash%20Course%20on%20Python/Week%204%20-%20Strings%2C%20Lists%20and%20Dictionaries)
-    - Week 5:
-    - Week 6:
-- Course 2: [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
-- Course 3: [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation)
-- Course 4: [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
-- Course 5: [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation)
-- Course 6: [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation)
+    - Week 5: [Object Oriented Programming (Optional)]()
+    - Week 6: [Final Project]()
+- Course 2: [Using Python to Interact with the Operating System]()
+- Course 3: [Introduction to Git and GitHub]()
+- Course 4: [Troubleshooting and Debugging Techniques]()
+- Course 5: [Configuration Management and the Cloud]()
+- Course 6: [Automating Real-World Tasks with Python]()
