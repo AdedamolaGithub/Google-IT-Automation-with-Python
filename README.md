@@ -11,7 +11,7 @@
     - Week 2: [Basic Python Syntax](https://github.com/ginny100/Google-IT-Automation-with-Python/tree/master/Course%201%20-%20Crash%20Course%20on%20Python/Week%202%20-%20Basic%20Python%20Syntax)
     - Week 3: [Loops](https://github.com/ginny100/Google-IT-Automation-with-Python/tree/master/Course%201%20-%20Crash%20Course%20on%20Python/Week%203%20-%20Loops)
     - Week 4: [Strings, Lists and Dictionaries](https://github.com/ginny100/Google-IT-Automation-with-Python/tree/master/Course%201%20-%20Crash%20Course%20on%20Python/Week%204%20-%20Strings%2C%20Lists%20and%20Dictionaries)
-    - Week 5: [Object Oriented Programming (Optional)]()
+    - Week 5: [Object Oriented Programming (Optional)](https://github.com/ginny100/Google-IT-Automation-with-Python/tree/master/Course%201%20-%20Crash%20Course%20on%20Python/Week%205%20-%20Object%20Oriented%20Programming%20(Optional))
     - Week 6: [Final Project]()
 - Course 2: [Using Python to Interact with the Operating System]()
 - Course 3: [Introduction to Git and GitHub]()
